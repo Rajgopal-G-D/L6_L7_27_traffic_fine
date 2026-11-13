@@ -3,3 +3,4 @@ lab6/.pytest_cache
 lab7/__pycache__
 lab7/.hypothesis
 lab7/.pytest_cache
+.pytest_cache
